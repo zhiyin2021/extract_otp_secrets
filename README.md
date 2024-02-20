@@ -5,5 +5,5 @@ git clone https://github.com/zhiyin2021/extract_otp_secrets
 cd extract_otp_secrets
 go run . -data=otpauth-migration://offline?data=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 ```
-
-![demo](demo.jpg){width=300}
+ 
+<img src="demo.jpg" width="300px">
